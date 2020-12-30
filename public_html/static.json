@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "/*": {
+      "Content-Type": "text/plane; charset=UTF-8",
+      "X-Author": "kondratievden",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
